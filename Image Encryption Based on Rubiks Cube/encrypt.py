@@ -6,6 +6,8 @@ import cv2
 
 high = (2**8) - 1
 low = 0
+#New Comments added here
+#Yeahhh buddyy light weighttt
 #print(high, low)
 
 myImage = Image.open("flower.jpg")
