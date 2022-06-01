@@ -2,7 +2,8 @@ from PIL import Image
 from random import randint
 import numpy as np
 import json
-
+#idhar bhi dala naya error
+#majaa aa gaya
 myImage = Image.open("output/eye-encrypted.png");
 width, height = myImage.size
 pixels = myImage.load()
